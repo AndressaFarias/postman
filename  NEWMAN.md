@@ -1,9 +1,10 @@
+# comando 
 mvn sonar:sonar \
   -Dsonar.host.url=<URL> \
   -Dsonar.login=<token>
 
 
-POSTAMAN / NEWMAN
+# POSTAMAN / NEWMAN
 
 Newman: run and test your collections from the command line :: https://blog.postman.com/2018/06/21/newman-run-and-test-your-collections-from-the-command-line/
 
